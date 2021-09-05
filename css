@@ -9,7 +9,7 @@ html{
        background-repeat: repeat;
        background-attachment: fixed; 
         -webkit-font-smoothing: antialiased;
-        cursor: url("http://yuzuyuru.x.fc2.com/ya1.cur"), default;
+        cursor: url("http://yuzuyuru.x.fc2.com/ya1.cur"), url("http://img-cdn.jg.jugem.jp/666/1334632/20191229_2053865.png"), default;
 }
 
 body {
@@ -79,7 +79,7 @@ ol{ list-style:decimal
 }
 
 a{
-cursor: url("http://yuzuyuru.x.fc2.com/yubi4.cur"), pointer;
+cursor: url("http://yuzuyuru.x.fc2.com/yubi4.cur"), url("http://img-cdn.jg.jugem.jp/666/1334632/20191229_2053866.png"), pointer;
 }
 
 a:link {color:#333333; 
